@@ -41,7 +41,7 @@
     "debug": "2.6.9",
     "express": "5.0.0-alpha.2",
     "glob-promise": "1.0.4",
-    "lazy-ass": "1.3.0",
+    "lazy-ass": "1.6.0",
     "morgan": "1.10.0",
     "npm-utils": "1.3.3",
     "semver": "5.1.0",
